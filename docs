@@ -1,1 +1,9 @@
 
+#This repository can store and manage private documents such as a Q/A data warehouse. 
+#python 1.import google api,obtain 40 websites focus on involed fields. 
+#2.import web extracted model process website data to text. 
+#3.google translate model and translate text to local language. 
+#4.text2vec,data filter,indexing, and embedding. 
+#5.vector DB store and query. 
+#6.every day for main media news for these websites data sunmary.
+#7.import text2voice model and can automated produce broadcast news.
